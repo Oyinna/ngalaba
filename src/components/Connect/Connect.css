@@ -1,0 +1,19 @@
+.connect{
+    padding: 20px 200px;
+    text-align: center;
+}
+
+.hr{
+    background-color: chartreuse;
+    height: 2px;
+    border: none;
+}
+
+.or{
+    color: orange;
+}
+
+.card{
+    box-shadow: 0px 0px 10px 2px grey;
+    margin:40px 250px;
+}

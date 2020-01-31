@@ -1,0 +1,36 @@
+.search{
+    background-image: url('../../assets/images/bkg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    align-self:center ;
+    padding: 20px;
+
+}
+
+.map{
+    background-image: url('../../assets/images/map.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 410px;
+    color:black;
+    margin:5px 380px;
+
+}
+
+.app{
+    
+    height: 30%;
+    margin-right: 25px;
+}
+
+.p{
+    margin-right: 40px;
+}
+.g{
+    color:green;
+}

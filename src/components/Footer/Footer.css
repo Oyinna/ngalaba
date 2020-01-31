@@ -1,0 +1,24 @@
+.footer{
+    height:auto;
+    width:100%;
+    /* position: sticky; */
+    background-color:rgba(87, 64, 47, 0.815);
+    bottom:0;
+    left:0;
+    align-items: center;
+    box-sizing: border-box;
+    z-index: 90;
+    color:white;
+}
+
+.dv{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 180px;
+}
+
+.dvs{
+    background-color: rgba(90, 59, 37, 0.815);
+    height: 30px;
+}
